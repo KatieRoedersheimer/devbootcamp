@@ -1,0 +1,19 @@
+html{
+	text-align: left;
+	background-image: url("../images/time.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#date{
+	margin-top: 50px;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+#time{
+	margin-top: 50px;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
